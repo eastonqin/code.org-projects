@@ -13,6 +13,9 @@ Hello, these are my code.org projects. Feel free to check them out.
 
 6) use for loops to display all the multiple of 5 from 200 and 250:https: //studio.code.org/projects/applab/1bdPbqzVXzbSIob5DesKHjUVyIGqqFwjRHNgkds4VgI
 
+7) use for loops to display an all multiples of five from 250 to 200 in reverse order:https://studio.code.org/projects/applab/8rqvsb7IkJMSU1shdk4GUnKTJiUtDbzcVnmTivW3cos
+
+
  
 
 
