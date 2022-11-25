@@ -11,4 +11,8 @@ Hello, these are my code.org projects. Feel free to check them out.
 
 5) catch the odd number game: https://studio.code.org/projects/applab/L_wRcrMJ4LUKnZYlixXAWdhydiJzAxaYIgyNi1r4dMA
 
+6) use for loops to display all the multiple of 5 from 200 and 250:https: //studio.code.org/projects/applab/1bdPbqzVXzbSIob5DesKHjUVyIGqqFwjRHNgkds4VgI
+
+ 
+
 
