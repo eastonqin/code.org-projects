@@ -15,4 +15,5 @@ Hello, these are my code.org projects. Feel free to check them out.
 
 7) to display the word Easton 10 times:https://studio.code.org/projects/applab/p4HWIuZB88XPmx1B5JCkDggqzeSAmgfwVQoeAchZpV8
 
+8) purpose of the app is to display all multiples of 12 from 200 to 250: https://studio.code.org/projects/applab/wZq__zB5fJA0oO8kcB1m27-_xAJGiPgfl4nUZpZhVy8
 
