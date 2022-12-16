@@ -17,3 +17,4 @@ Hello, these are my code.org projects. Feel free to check them out.
 
 8) purpose of the app is to display all multiples of 12 from 200 to 250: https://studio.code.org/projects/applab/wZq__zB5fJA0oO8kcB1m27-_xAJGiPgfl4nUZpZhVy8
 
+9) get a word or charater from the user. use the for loops to display the word enetred by the user 10 times:
