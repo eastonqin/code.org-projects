@@ -20,7 +20,8 @@ Hello, these are my code.org projects. Feel free to check them out.
 
 9) get a word or charater from the user. use the for loops to display the word enetred by the user 10 times:https://studio.code.org/projects/applab/jkndD0wymliObGr2-b6Rq99vrKISAxJIoUN6r1ES1X4  
 
-(10) examples of loops : https://studio.code.org/projects/applab/rqZhMCy9_nOEUaO5kjv9Sk0Mj8yGkp-PKpQ6Jj4UllU
+(10) Get 2 number limits input by the user, Display all the numbers divisible by 7 within those 2 numbers using ‘for’ loop. : https://studio.code.org/projects/applab/rqZhMCy9_nOEUaO5kjv9Sk0Mj8yGkp-PKpQ6Jj4UllU
+
 
 
 
