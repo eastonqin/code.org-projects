@@ -24,6 +24,10 @@ Hello, these are my code.org projects. Feel free to check them out.
 
 (11) get 2 numbers input from the user as the limit //display all the numbers divisble by 4 between these two limits in reverse order.:https://studio.code.org/projects/applab/vLCnCAjbVAqpmDFduRCIN61WAenrZ6HM6eb4Shw7VmU
 
+(12)purpose of the app is to display all multiples of ten in reverse order, get the limits from the user. https://studio.code.org/projects/applab/2JiyYs0ChHgkSd5bCFbEValbasD0asV8uKp1fqXBjDY
+
+
+
 
 
 
