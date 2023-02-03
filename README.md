@@ -26,6 +26,11 @@ Hello, these are my code.org projects. Feel free to check them out.
 
 (12)purpose of the app is to display all multiples of ten in reverse order, get the limits from the user. https://studio.code.org/projects/applab/2JiyYs0ChHgkSd5bCFbEValbasD0asV8uKp1fqXBjDY
 
+(13) Purpose of the app is to display all multiples of 20 from 400 to 100 in reverse orders using for loops.
+https://studio.code.org/projects/applab/GklBQBt8CCJxd4QvAFi5ZCjGf-itGobY-5cAg5RhcFw.
+
+
+
 
 
 
